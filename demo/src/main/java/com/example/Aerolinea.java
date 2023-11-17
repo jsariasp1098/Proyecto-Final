@@ -11,7 +11,7 @@ public class Aerolinea {
     }
     public Aerolinea(String nombreAerolinea, int vuelosOperados, int vuelosProgramados, int vuelosCancelados){
         this.nombreAerolinea = nombreAerolinea;
-        this.vuelosOperados = vuelosCancelados;
+        this.vuelosOperados = vuelosOperados;
         this.vuelosProgramados = vuelosProgramados;
         this.vuelosCancelados = vuelosCancelados;
     }  
